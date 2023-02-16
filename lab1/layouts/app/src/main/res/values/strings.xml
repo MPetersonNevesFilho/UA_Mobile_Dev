@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="nher_15">Nher (15%)</string>
+    <string name="bom_18">Bom (18%)</string>
+    <string name="top_20">Top (20%)</string>
+    <string name="como_foi_o_servi_o">Como foi o serviço?</string>
+    <string name="custo_do_rol">Custo do rolê</string>
+    <string name="calcular">Calcular</string>
+    <string name="quantia">Quantia: %s</string>
+    <string name="arredondar_pra_cima">Arredondar pra cima?</string>
+    <string name="affirmation1">I am strong.</string>
+    <string name="affirmation2">I believe in myself.</string>
+    <string name="affirmation3">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
+    <string name="affirmation5">I have so much to be grateful for.</string>
+    <string name="affirmation6">Good things are always coming into my life.</string>
+
+</resources>
